@@ -1,0 +1,9 @@
+SECTION 1 — THE BIG PICTURE
+
+Currently, there are 1000 registered clinical trials focused on stomach cancer. Most of these trials are in Phase 2, with 253 trials, although a large number are also listed as "N/A" or "NA" for phase, which together account for almost 400 trials. Completion rates for Phase 1, 2, and 3 trials are all around 33-39%. The majority of trials are sponsored by entities categorized as "Other" rather than industry or government. Looking ahead, the forecast predicts a slight fluctuation in trial volume, averaging around 1.7 new trials per month over the next year. Notably, given the number of trials that are not yet recruiting, the pipeline looks stable.
+
+SECTION 2 — WHAT THE OUTPUTS SHOW
+
+The Landscape Stats output shows a broad overview of stomach cancer clinical trials. You'll see that the most common intervention type is "Drug," appearing in 564 trials. The median trial duration is about 43 months, while the average is closer to 51 months, but that's because there's some trials that have very long durations. You can also see which organizations sponsor the most trials, like Yonsei University and the National Cancer Institute, each with 21 trials.
+
+The Forecast Chart shows a prediction for the number of new stomach cancer clinical trials starting each month for the next year. The model predicts about 1.7 new trials per month. However, there's a lot of uncertainty, as the model's confidence interval ranges from 0 to roughly 4.2 to 4.8 new trials per month. The AIC is a metric that can be used for cross-model comparison and is an indicator of model fit.
